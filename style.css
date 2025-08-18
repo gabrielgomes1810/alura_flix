@@ -1,8 +1,8 @@
 /*variaveis*/
 :root {
     --preto: #000;
+    --preto: #000;
     --branco: #fff;
-    --lilas-claro: #eb76db;
     --azul-médio: #2f4dd1;
     --amarelo:#cfe80d;
 }
@@ -32,3 +32,4 @@ section {
 div {
     margin-right: 20px;/*margem a direita*/
 }
+
