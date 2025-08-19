@@ -2,7 +2,7 @@
 :root {
     --vermelho: #d12f2f;
     --branco: #fff;
-    --branco: #fff;
+    --branco: #d12f2f;
     --branco: #fff;
     --vermelho:#d12f2f;
 }
@@ -32,6 +32,7 @@ section {
 div {
     margin-right: 20px;/*margem a direita*/
 }
+
 
 
 
