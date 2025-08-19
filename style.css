@@ -1,9 +1,9 @@
 /*variaveis*/
 :root {
-    --vermelho: #d12f2f;
-    --branco: #d12f2f;
-    --branco: #d12f2f;
+    --vermelho: #000;
     --branco: #fff;
+    --branco: #fff;
+    --branco: #2d27db;
     --vermelho:#d12f2f;
 }
 /*corpo da página*/
@@ -32,6 +32,7 @@ section {
 div {
     margin-right: 20px;/*margem a direita*/
 }
+
 
 
 
