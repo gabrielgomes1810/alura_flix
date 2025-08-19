@@ -3,8 +3,8 @@
     --preto: #000;
     --preto: #000;
     --branco: #fff;
-    --azul-médio: #2f4dd1;
-    --amarelo:#0000FF;
+    --azul-médio: #d12f2f;
+    --azul:#0000FF;
 }
 /*corpo da página*/
 body {
@@ -32,5 +32,6 @@ section {
 div {
     margin-right: 20px;/*margem a direita*/
 }
+
 
 
